@@ -1,5 +1,5 @@
 framework module GCDWebServer {
-  umbrella header "GCDWebServer-umbrella.h"
+  umbrella header "GCDWebServer-iOS-umbrella.h"
 
   export *
   module * { export * }

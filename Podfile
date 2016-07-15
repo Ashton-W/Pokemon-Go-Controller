@@ -7,3 +7,7 @@ target 'PokemonController' do
 	pod 'GCDWebServer'
 end
 
+target 'PokemonController-Mac' do
+    platform :osx, '10.11'
+    pod 'GCDWebServer'
+end
